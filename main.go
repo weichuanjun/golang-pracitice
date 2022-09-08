@@ -23,6 +23,7 @@ func main() {
 			 pri
 			 print dsrfdsfdsconst
 			printLn("hello,")
+			printl(neew)
 			
 
 
